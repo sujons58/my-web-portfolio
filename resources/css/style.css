@@ -331,16 +331,16 @@ button.focus{
 #about .hero::before{
     position: absolute;
     content: '';
-    top: 25px !important;
-    bottom: -10px !important;
-    left: 45px !important;
+    top: 15px !important;
+    bottom: -30px !important;
+    left: 40px !important;
     right: -10px !important;
     border: 8px solid var(--primary-color); !important;
     z-index: -1;
 }
 
 #about .hero img{
-    height: 338px;
+    height: 358px;
     max-width: 100%;
     border-radius: 10px;
 }
